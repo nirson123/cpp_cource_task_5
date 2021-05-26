@@ -1,0 +1,40 @@
+//
+// Created by nir son on 25/05/2021.
+//
+#include "doctest.h"
+
+TEST_CASE("aaa"){
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+            CHECK(1==1);
+}
